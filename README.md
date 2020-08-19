@@ -18,7 +18,7 @@ I am looking for a PhD program starting in autumn 2020 in deep learning for augm
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg"/>
 <img align="left" alt="RaspberryPi" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/raspberrypi.svg"/>
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/arduino.svg"/>
-<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftazure.svg"/>
+<img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftazure.svg"/><br/>
 
-### Contacts
+## Contacts
 [Website](https://s-gregorini003.github.io) |  [Linkedin](https://linkedin.com/in/silvio-gregorini-097364174)  |  [Email](mailto:silvio.gregorini@gmail.com)
