@@ -1,6 +1,8 @@
 ## About Me
 
-I am a student at Leeds Beckett University, expecting to graduate with distinction in an M.Sc. in Audio Engineering. My life goals, in short:
+I am a student at Leeds Beckett University, expecting to graduate with distinction in an M.Sc. in Audio Engineering. 
+
+My life goals, in short:
 - Do my part in building the best sci-fi future possible.
 - Have fun in the process.
 - Keep learning new things that push my curiosity forward.
@@ -20,6 +22,6 @@ I am looking for a PhD program starting in autumn 2020 in deep learning for augm
  
  <br>
  
- ---
+
  
 **Contacts -** [Website](https://s-gregorini003.github.io) |  [Linkedin](https://linkedin.com/in/silvio-gregorini-097364174)  |  [Email](mailto:silvio.gregorini@gmail.com)
