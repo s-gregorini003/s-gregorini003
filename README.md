@@ -9,7 +9,6 @@ I am looking for a PhD program starting in autumn 2020 in deep learning for augm
 
 ## Skills
 
-<br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/visualstudiocode.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg"/>
 <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/tensorflow.svg"/>
@@ -19,7 +18,7 @@ I am looking for a PhD program starting in autumn 2020 in deep learning for augm
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/arduino.svg"/>
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftazure.svg"/>
  
- </br>
+ <br>
  
  ---
  
