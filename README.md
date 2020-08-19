@@ -22,4 +22,4 @@ I am looking for a PhD program starting in autumn 2020 in deep learning for augm
  
  ---
  
-**Contacts** [Website](https://s-gregorini003.github.io) |  [Linkedin](https://linkedin.com/in/silvio-gregorini-097364174)  |  [Email](mailto:silvio.gregorini@gmail.com)
+**Contacts -** [Website](https://s-gregorini003.github.io) |  [Linkedin](https://linkedin.com/in/silvio-gregorini-097364174)  |  [Email](mailto:silvio.gregorini@gmail.com)
