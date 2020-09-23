@@ -1,6 +1,6 @@
 ## About Me
 
-I am a student at Leeds Beckett University, expecting to graduate with distinction in an M.Sc. in Audio Engineering. 
+I am an Audio Engineering graduate at Leeds Beckett University.
 
 My life goals, in short:
 - Do my part in building the best sci-fi future possible.
