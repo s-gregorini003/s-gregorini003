@@ -7,7 +7,7 @@ My life goals, in short:
 - Have fun in the process.
 - Keep learning new things that push my curiosity forward.
 
-I am looking for a PhD program starting in autumn 2020 in deep learning for augmented/virtual reality, machine audition, robotics or 3D printing applications. But I’m also considering to undertake internships, either before or whilst researching.
+I am currently looking for a PhD program starting in 2021 in machine learning for digital musical instruments, augmented/virtual reality, machine audition or 3D printing applications. I am also considering to undertake internships, either before or whilst researching.
 
 ## Skills
 
