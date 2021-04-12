@@ -7,7 +7,9 @@ My life goals, in short:
 - Have fun in the process.
 - Keep learning new things that push my curiosity forward.
 
-I am currently looking for a PhD program starting in 2021 in machine learning for digital musical instruments, augmented/virtual reality, machine audition or 3D printing applications. I am also considering to undertake internships, either before or whilst researching.
+I am currently looking for:
+- PhD program starting in 2021 in machine learning for digital musical instruments, augmented/virtual reality, machine audition or 3D printing applications;
+- Internships or roles as Junior Audio Programmer in the video game industry.
 
 ## Skills
 
@@ -21,4 +23,4 @@ I am currently looking for a PhD program starting in 2021 in machine learning fo
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/microsoftazure.svg"/><br/>
 
 ## Contacts
-[Website](https://s-gregorini003.github.io) |  [Linkedin](https://linkedin.com/in/silvio-gregorini-097364174)  |  [Email](mailto:silvio.gregorini@gmail.com)
+[Website](https://s-gregorini003.github.io) |  [Linkedin](https://linkedin.com/in/silvio-gregorini-097364174)  |  [Email](mailto:silvio.gregorini@outlook.com)
