@@ -1,15 +1,11 @@
 ## About Me
 
-I am an Audio Engineering graduate at Leeds Beckett University.
+I am Junior Audio Programmer for Cloud Imperium Games.
 
 My life goals, in short:
 - Do my part in building the best sci-fi future possible.
 - Have fun in the process.
 - Keep learning new things that push my curiosity forward.
-
-I am currently looking for:
-- PhD program starting in 2021 in machine learning for digital musical instruments, augmented/virtual reality, machine audition or 3D printing applications;
-- Internships or roles as Junior Audio Programmer in the video game industry.
 
 ## Skills
 
