@@ -1,6 +1,6 @@
 ## About Me
 
-I am Junior Audio Programmer for Cloud Imperium Games.
+Audio Programmer II for Cloud Imperium Games.
 
 My life goals, in short:
 - Do my part in building the best sci-fi future possible.
